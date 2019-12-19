@@ -1,0 +1,38 @@
+{
+    "name": "Indianapolis, IN",
+    "description": "Explore Data for the Indianapolis, Indiana Civic Hack Days. Documentation available at dev.socrata.com",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/indianapolis-indiana.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/indianapolis-in\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Indianapolis, IN",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/indianapolis-indiana.png",
+            "humanURL": "https:\/\/communities.socrata.com\/catalogs\/indy",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/indianapolis-in-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/communities.socrata.com\/catalogs\/indy"
+        }
+    ]
+}
